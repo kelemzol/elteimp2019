@@ -1,7 +1,7 @@
 # elteimp2019
 
 ## Elérhetőségek:
-kelemzol@elte.hu
+kelemzol{kukac}elte{pont}hu
 
 
 ## Linkek
