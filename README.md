@@ -24,6 +24,8 @@ How to install gcc
 gcc usage: https://rupinderjeetkaur.wordpress.com/2014/06/20/run-a-cc-program-on-terminal-using-gcc-compiler/ (edited) 
 gcc flags: https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html (edited) 
 
+vi/vim: https://ryanstutorials.net/linuxtutorial/vi.php
+
 ## Egyéb
 slack invite link:
 https://cutt.ly/FwFW9GK
