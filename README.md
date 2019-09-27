@@ -8,9 +8,12 @@ kelemzol{kukac}elte{pont}hu
 
 A targy honalpja: http://kto.web.elte.hu/hu/oktatas/imp/
 
+C Reference: https://en.cppreference.com/w/c
+
 Eloadas anyagok: http://gsd.web.elte.hu/imper/
 
-Pandora usage: https://people.inf.elte.hu/csa/pandora.htm
+Pandora usage: https://people.inf.elte.hu/csa/pandora.html
+
 
 C tutorials
 - https://www.programiz.com/c-programming
@@ -39,6 +42,6 @@ gcc flags: https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html
 vi/vim: https://ryanstutorials.net/linuxtutorial/vi.php
 
 ## Egyéb
-slack invite link:
+Slack invite link:
 
 https://cutt.ly/FwFW9GK
