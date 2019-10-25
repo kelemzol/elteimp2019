@@ -1,5 +1,5 @@
 CC      := gcc
-CCFLAGS := -ansi -Wall -Werror -pedantic-errors
+CCFLAGS :=
 LDFLAGS :=
 
 TARGETS := main
