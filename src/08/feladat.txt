@@ -1,0 +1,18 @@
+
+Helyes zárójelezés
+==================
+
+ 1) Egy fájl tartalmát olvasva
+ 2) döntsd el, hogy helyesen van-e zárójelezve.
+
+    A helyes zárójelezés azt jelenti:
+      * ugyan anyni '(' és ')' karakter található a szövegben
+      * az n. ')' jelet legalább n darab '(' jelnek kell
+        megelőznie
+
+  példa szövegek: a(b(c)d(e)f)g - helyes
+                  saas(((fdf)   - hibás
+                  a(df)f)f(df   - hibás
+
+// https://en.cppreference.com/w/c
+
